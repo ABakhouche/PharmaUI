@@ -1,5 +1,4 @@
 
-import Banner from './assets/bannerPharma.jpeg'
 const Requests = () => {
   return (
 
