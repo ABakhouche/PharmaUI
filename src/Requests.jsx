@@ -79,7 +79,7 @@ const Requests = () => {
                   <div className="mt-8">
                       <button type="button"
                               className="px-6 py-3 text-base font-semibold text-white bg-[#1a948c] rounded-full hover:bg-[#343e70] hover:text-white transition-all duration-300 transform hover:scale-105 focus:ring-2 focus:ring-[#1a948c] focus:outline-none focus:ring-opacity-50">
-                          Send request
+                          Send requests
                       </button>
                   </div>
 
