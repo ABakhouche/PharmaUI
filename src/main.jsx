@@ -4,7 +4,6 @@ import HomePage from './HomePage.jsx'
 import './index.css'
 import './input.css';
 
-import ReactDOM from 'react-dom/client' ;
 import {createBrowserRouter , RouterProvider} from 'react-router-dom' ;
 import Requests from "./Requests.jsx";
 
